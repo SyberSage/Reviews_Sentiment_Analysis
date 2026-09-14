@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+pandas
+scikit-learn
+tensorflow-cpu
+nltk
+matplotlib
+seaborn
+wordcloud
+joblib
+scipy
+openpyxl
